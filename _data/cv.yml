@@ -1,10 +1,13 @@
 cv:
-  name: Luca Romanello
-  label: Postdoctoral Researcher
+  name: Dr. Luca Romanello
+  label: PostDoc in Sustainable Robotics
   email: luca.romanello@epfl.ch
-  location: Dübendorf, Switzerland
+  phone: "+393890541405"
+  location: Lausanne, Switzerland
   image: ""
-  summary: Postdoctoral Researcher at EPFL and EMPA specializing in aerial-aquatic robots for extreme environments. PhD in Sustainable Aerial Robotics from TU Munich and Imperial College London.
+  summary: >
+    Postdoctoral Researcher at EPFL and EMPA specializing in aerial-aquatic robots for extreme environments,
+    including the Arctic and Greenland. PhD from TU Munich and Imperial College London.
 
   social_networks:
     - network: GitHub
@@ -13,108 +16,162 @@ cv:
       username: luca-romanello-0328ab135
 
   address:
-    street: Ueberlandstrasse 129
-    city: Dübendorf
-    region: Zurich
-    postalCode: "8600"
+    city: Lausanne
+    region: Vaud
     countryCode: CH
 
   sections:
     Experience:
-      - company: EPFL ENAC — Laboratory of Sustainability Robotics
+      - company: EPFL & EMPA — Laboratory of Sustainability Robotics
         position: Postdoctoral Researcher
-        location: Lausanne, Switzerland
-        url: https://www.epfl.ch/schools/enac/
-        start_date: 2024
-        end_date: present
-        highlights:
-          - Research on aerial-aquatic vehicles in extreme environments
-          - Leading the robotics work of the GREENFJORDS project (Greenland arctic fjords)
-
-      - company: EMPA — Laboratory of Sustainability Robotics
-        position: Postdoctoral Researcher
-        location: Dübendorf, Switzerland
+        location: Lausanne, Switzerland / Dübendorf, Switzerland
         url: https://www.empa.ch/web/s799
-        start_date: 2024
+        start_date: 2025
         end_date: present
         highlights:
-          - Joint appointment with EPFL
-          - Aerial-aquatic vehicles for environmental monitoring
+          - Aerial-aquatic systems in extreme environments including the Arctic and Greenland
+          - "<a href='https://www.epfl.ch/labs/eerl/eerl-home-page/research/greenfjord/'>Greenfjord project</a>. Supervised by Prof. M. Kovac."
 
-      - company: Aerial Robotics Lab, Imperial College London
+      - company: TU Munich & Imperial College London
         position: PhD Researcher
-        location: London, UK
-        url: https://www.imperial.ac.uk/a-z-research/aerial-robotics/
-        start_date: 2020
-        end_date: 2024
+        location: Munich, Germany / London, UK
+        url: https://www.imperial.ac.uk/aerial-robotics
+        start_date: 2021
+        end_date: 2025
         highlights:
-          - Sustainable aerial robots for environmental sensing in water and forest
-          - Supervised by Prof. Mirko Kovac
+          - "Member of <a href='https://www.imperial.ac.uk/aerial-robotics'>Aerial Robotics Lab</a> and <a href='https://www.asg.ed.tum.de/en/eav/research/current-projects/'>eAviation</a>"
+          - Multi-modal aerial systems for safe and efficient environmental sensing and sampling
+          - Developed and tested novel aerial frameworks for water and forest ecology
+          - Supervised by M. Kovac and Prof. S. Armanini
 
-      - company: eAviation Chair, TU Munich
-        position: PhD Researcher
-        location: Munich, Germany
-        url: https://www.asg.ed.tum.de/eav/forschung/aktuelle-projekte/
-        start_date: 2020
-        end_date: 2024
+      - company: Siemens AG
+        position: Sales Engineer
+        location: Milan, Italy
+        start_date: 2021
+        end_date: 2021
         highlights:
-          - Sustainable aerial robots for environmental sensing in water and forest
+          - Configured and integrated industrial electronic systems including PLCs, inverters, and robotic arms
+
+      - company: Politecnico di Torino
+        position: Lab and Library Assistant
+        location: Turin, Italy
+        start_date: 2015
+        end_date: 2020
+
+      - company: Romanello s.r.l.
+        position: Automotive Workshop Apprentice
+        location: Nardò, Italy
+        start_date: 2012
+        end_date: 2019
+        highlights:
+          - Seasonal apprentice at family automotive electrician workshop
 
     Education:
       - institution: TU Munich & Imperial College London
         location: Munich, Germany / London, UK
+        url: https://www.imperial.ac.uk/aerial-robotics
         area: Sustainable Aerial Robotics
         studyType: PhD
-        start_date: 2020
-        end_date: 2024
+        start_date: 2021
+        end_date: 2025
+        highlights:
+          - "Thesis: <a href='https://drive.google.com/file/d/1yKkPRcTR2QpbxMZQ9ZTYWh1f6tLqM1iq/view?usp=share_link'>Multi-modal aerial solutions for safe and efficient environmental sensing</a>"
 
       - institution: California State University, Los Angeles
         location: Los Angeles, CA, USA
         url: https://www.calstatela.edu/
         area: Robotics (MSc Research Exchange)
-        studyType: Research Exchange
-        start_date: 2019
+        studyType: Master Thesis
+        start_date: 2020
         end_date: 2020
         highlights:
-          - Algorithm for autonomous charging operations on a mobile robot
-          - "Supervised by Prof. Dr. Marina Mondin"
-          - "<a href='https://webthesis.biblio.polito.it/15872/'>MSc Thesis</a>"
+          - "Autonomous charging operations on a mobile robot. Supervised by <a href='https://www.calstatela.edu/faculty/marina-mondin'>Prof. Dr. Marina Mondin</a>"
+          - "<a href='https://webthesis.biblio.polito.it/15872/'>Thesis</a>"
 
       - institution: Politecnico di Torino
         location: Turin, Italy
         url: https://www.polito.it/
         area: Mechatronic Engineering
-        studyType: MSc
-        start_date: 2017
+        studyType: MSc / BSc
+        start_date: 2015
         end_date: 2020
         score: "110/110 cum laude"
         highlights:
           - Mechanical and electronics design, material science, embedded programming
-          - Robotics, control systems, machine learning
+          - Robotics, control systems, system identification, machine learning
 
-      - institution: Politecnico di Torino
-        location: Turin, Italy
-        url: https://www.polito.it/
-        area: Mechatronic Engineering
-        studyType: BSc
-        start_date: 2014
-        end_date: 2017
+    Teaching:
+      - company: EPFL Lausanne
+        position: Lecturer
+        location: Lausanne, Switzerland
+        start_date: 2025
+        end_date: present
+        highlights:
+          - "<a href='https://edu.epfl.ch/coursebook/en/sustainability-robotics-ENV-530'>Sustainability Robotics</a> — 15 students (2025), 12 students (2026)"
+
+      - company: TU Munich & Imperial College London
+        position: Head Lecturer / Lecturer / Teaching Assistant
+        location: Munich, Germany / London, UK
+        start_date: 2021
+        end_date: 2025
+        highlights:
+          - "Test, Analysis and Simulation — 264 students (Head Lecturer, 2024)"
+          - "Introduction to Micro Aerial Vehicles — 107 students (2024)"
+          - "Introduction to Bio-inspired Aerial Robotics — 46 students (2023w), 31 students (2023s)"
+          - "Test, Analysis and Simulation — 264 students (Practice, 2024); 152 students (Practice, 2023)"
+          - "Introduction to Micro Aerial Vehicles — 108 students (Practice, 2023)"
+          - "Neural Networks in System Identification — 75 students (Practice, 2022)"
+          - "Close supervision of 7 master theses, 5 semester theses, 4 bachelor theses, 5 summer projects"
+
+    Awards:
+      - title: Best Poster — IEEE ICRA Workshop 2026
+        authors:
+          - "Awarded by Wiley"
+        date: 2026
+        awarder: Wiley
+        summary: '"Multi-modal robotics for sustainable environmental sensing" — democratic vote'
+        url: https://drive.google.com/file/d/1ouaoK_t1b_OuT0STOdWv6Cgs3PUBdKes/view?usp=share_link
+
+      - title: Best Poster — IEEE RoboSoft Workshop 2025
+        authors:
+          - "Awarded by Wiley"
+        date: 2025
+        awarder: Wiley
+        summary: '"Soft Robots for Humanitarian Assistance, Reconnaissance, Disasters, Exploration, and Recovery (HARDER)"'
+
+      - title: Best Paper — IEEE RoboSoft Workshop 2024
+        authors:
+          - "Awarded by IOP Publishing"
+        date: 2024
+        awarder: IOP Publishing
+        summary: '"Bio-inspired Soft Metamorphic Aerial Robotics"'
+
+      - title: Finalist — Maths Games, Bocconi University
+        date: 2014
+        awarder: Bocconi University
+        summary: Three-time finalist (2010–2014)
+        url: https://giochimatematici.unibocconi.eu
 
     Skills:
-      - name: Robotics
+      - name: Robotics & Engineering
         level: Expert
         icon: fa-solid fa-robot
-        keywords: "Aerial robots, Aquatic robots, Soft robotics, Bio-inspired design, Prototyping"
+        keywords: "Embedded software, robotic design, control systems, UAV design, mobile robots, 3D motion capture"
 
-      - name: Software
-        level: Expert
-        icon: fa-solid fa-code
-        keywords: "Python, MATLAB, ROS, C++, Embedded systems"
-
-      - name: Engineering
+      - name: Manufacturing
         level: Expert
         icon: fa-solid fa-cog
-        keywords: "CAD design, Control systems, Field deployment, Autonomous systems"
+        keywords: "Soft material casting, 3D printing (biodegradable/soft/hard polymers, SLA), PCB design, Laser/CNC cutting"
+
+      - name: Programming
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Python, C/C++, MATLAB, Jupyter Notebooks, ROS/Gazebo"
+
+      - name: Design
+        level: Advanced
+        icon: fa-solid fa-pen-ruler
+        keywords: "SolidWorks, Fusion 360, Adobe Creative Suite (Illustrator, Photoshop, Premiere), Blender"
 
     Languages:
       - name: Italian
@@ -123,5 +180,29 @@ cv:
       - name: English
         summary: "Fluent"
 
+      - name: German
+        summary: "A2"
+
       - name: French
-        summary: "Basic"
+        summary: "A2"
+
+    Interests:
+      - name: Sports
+        icon: fa-solid fa-person-running
+        keywords: "Brazilian Jiu Jitsu, Swimming, Calisthenics, Ski, Hiking, Football, Lindy Hop"
+
+      - name: Interests
+        icon: fa-solid fa-music
+        keywords: "Novels and Essays, Arthouse Movies, DJing, Analog Photography"
+
+    Certificates:
+      - name: Volunteering — Lumiere Research Program
+        date: 2023-01-01
+        issuer: Lumiere Foundation
+        icon: fa-solid fa-heart
+        url: https://lumiere.foundation
+
+      - name: Volunteer — Soup Kitchens
+        date: 2015-01-01
+        issuer: Various
+        icon: fa-solid fa-hands-helping

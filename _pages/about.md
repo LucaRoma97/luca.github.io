@@ -12,9 +12,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Ueberlandstrasse 129</p>
-    <p>8600 Dübendorf</p>
-    <p>Switzerland</p>
+    <p>luca.romanello@epfl.ch</p>
+    <p>Lausanne, Switzerland</p>
 
 selected_papers: true
 social: true
@@ -32,8 +31,8 @@ latest_posts:
 
 I am a Postdoctoral Researcher at EPFL and EMPA, working in the [Laboratory of Sustainability Robotics (LSR)](https://www.empa.ch/web/s799), specializing in **aerial-aquatic robots** for extreme environments.
 
-My research focuses on sustainable robotics for environmental sensing in **forest** and **aquatic** ecosystems. I aim to revolutionize monitoring and conservation efforts by advancing robotics toward safer, quieter, and more efficient approaches to collect critical data in fragile environments.
+My research focuses on sustainable robotics for environmental sensing in **forest** and **aquatic** ecosystems, aiming to develop safer, quieter, and more efficient approaches to collect critical data in fragile environments. I currently lead the robotics work of the [GREENFJORDS project](https://www.epfl.ch/labs/eerl/eerl-home-page/research/greenfjord/), deploying robots in Greenland's arctic fjords, supervised by Prof. Mirko Kovac.
 
-I completed my PhD in Sustainable Aerial Robotics at [TU Munich (eAviation chair)](https://www.asg.ed.tum.de/eav/forschung/aktuelle-projekte/) in collaboration with the [Aerial Robotics Lab (ARL)](https://www.imperial.ac.uk/a-z-research/aerial-robotics/) at Imperial College London.
+I completed my **PhD** (2021–2025) on multi-modal aerial systems for environmental sensing at [TU Munich (eAviation)](https://www.asg.ed.tum.de/en/eav/research/current-projects/) and the [Aerial Robotics Lab](https://www.imperial.ac.uk/aerial-robotics) at Imperial College London.
 
-Currently, I lead the robotics work of the [GREENFJORDS project](https://greenfjord-project.ch), deploying cutting-edge sustainable robots in Greenland's arctic fjords.
+My projects span aerial-sailing robots ([SailMAV](projects/sailmav)), drone-deployed underwater systems ([Simbi](projects/simbi), [TumblerBots](projects/tumblerbots)), and in-canopy sensing platforms ([TreeSpider](projects/treespider), [Aerial Tensile Perching](projects/aerial_tensile)).
