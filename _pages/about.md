@@ -45,7 +45,7 @@ My projects span aerial-sailing robots ([SailMAV](projects/sailmav)), drone-depl
 
 - **Simbi: Soft intelligent module for benthic interactions** — *Soft Robotics 2026* &nbsp;·&nbsp; <a href="https://journals.sagepub.com/doi/10.1177/21695172261437502" target="_blank">Article</a>
 
-- **TreeSpider: In-canopy exploration with tether-based aerial modular arms** ⭐ *Cover page* — *Wiley Adv. Rob. Res. 2026* &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1SXyeQTAoAsWJ79rohy6i1ZQCcZyL-dBD/view?usp=sharing" target="_blank">Article</a>
+- **TreeSpider: In-canopy exploration with tether-based aerial modular arms** ⭐ *Cover page* — *Wiley Adv. Rob. Res. 2026* &nbsp;·&nbsp; <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adrr.202500111" target="_blank">Article</a>
 
 - **AMBER: Aerial Compliant Microspine Branch-Engaging Robot** — *IEEE IROS 2026 (Accepted)* &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1ej2TfxZwcC-oCCrGkWLx5QNrOLhtJxEy/view?usp=share_link" target="_blank">Article</a>
 

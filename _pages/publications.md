@@ -29,7 +29,7 @@ nav_order: 2
 
 - **TreeSpider: In-canopy exploration with tether-based aerial modular arms** ⭐ *Cover page*<br>
   **L. Romanello** et al.<br>
-  *Wiley Advanced Robotics Research* &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1SXyeQTAoAsWJ79rohy6i1ZQCcZyL-dBD/view?usp=sharing" target="_blank">Article</a> &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1AA__o7zmAQ_CeNc_x4NfXjtAy4KtdZLS/view" target="_blank">Video</a>
+  *Wiley Advanced Robotics Research* &nbsp;·&nbsp; <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adrr.202500111" target="_blank">Article</a> &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1AA__o7zmAQ_CeNc_x4NfXjtAy4KtdZLS/view" target="_blank">Video</a>
 
 **2025**
 

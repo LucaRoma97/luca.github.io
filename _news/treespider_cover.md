@@ -6,7 +6,7 @@ related_posts: false
 title: TreeSpider selected as cover of Wiley Advanced Robotics Research
 ---
 
-<a href="https://drive.google.com/file/d/1SXyeQTAoAsWJ79rohy6i1ZQCcZyL-dBD/view?usp=sharing" target="_blank">TreeSpider</a> selected as **cover page** of Wiley Advanced Robotics Research (Vol. 2, Issue 2)!
+<a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adrr.202500111" target="_blank">TreeSpider</a> selected as **cover page** of Wiley Advanced Robotics Research (Vol. 2, Issue 2)!
 
 <div class="row mt-3">
   <div class="col-sm-5">
