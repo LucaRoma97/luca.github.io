@@ -15,7 +15,7 @@ profile:
     <p>luca.romanello@epfl.ch</p>
     <p>Lausanne, Switzerland</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -36,3 +36,21 @@ My research focuses on sustainable robotics for environmental sensing in **fores
 I completed my **PhD** (2021–2025) on multi-modal aerial systems for environmental sensing at [TU Munich (eAviation)](https://www.asg.ed.tum.de/en/eav/research/current-projects/) and the [Aerial Robotics Lab](https://www.imperial.ac.uk/aerial-robotics) at Imperial College London.
 
 My projects span aerial-sailing robots ([SailMAV](projects/sailmav)), drone-deployed underwater systems ([Simbi](projects/simbi), [TumblerBots](projects/tumblerbots)), and in-canopy sensing platforms ([TreeSpider](projects/treespider), [Aerial Tensile Perching](projects/aerial_tensile)).
+
+---
+
+## Selected Publications
+
+- **Flapping Hydrofoil Propulsion for Uncrewed Surface Vehicles** — *IEEE RA-L 2026* &nbsp;·&nbsp; <a href="https://ieeexplore.ieee.org/document/11474777" target="_blank">Article</a>
+
+- **Simbi: Soft intelligent module for benthic interactions** — *Soft Robotics 2026* &nbsp;·&nbsp; <a href="https://journals.sagepub.com/doi/10.1177/21695172261437502" target="_blank">Article</a>
+
+- **TreeSpider: In-canopy exploration with tether-based aerial modular arms** ⭐ *Cover page* — *Wiley Adv. Rob. Res. 2026* &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1SXyeQTAoAsWJ79rohy6i1ZQCcZyL-dBD/view?usp=sharing" target="_blank">Article</a>
+
+- **AMBER: Aerial Compliant Microspine Branch-Engaging Robot** — *IEEE IROS 2026 (Accepted)* &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1ej2TfxZwcC-oCCrGkWLx5QNrOLhtJxEy/view?usp=share_link" target="_blank">Article</a>
+
+- **SailMAV: Aerial-aquatic sailing vehicles** — *IEEE TFR 2025* &nbsp;·&nbsp; <a href="https://ieeexplore.ieee.org/document/10923704" target="_blank">Article</a>
+
+- **TumblerBots: Tumbling robotic sensors for benthic monitoring** — *IEEE RoboSoft 2025* &nbsp;·&nbsp; <a href="https://ieeexplore.ieee.org/document/11020880" target="_blank">Article</a>
+
+<small>→ Full list on the [publications](/luca.github.io/publications/) page.</small>
