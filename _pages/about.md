@@ -37,7 +37,7 @@ I completed my **PhD** (2021–2025) on multi-modal aerial systems for environme
 
 My projects span aerial-sailing robots ([SailMAV](projects/sailmav)), drone-deployed underwater systems ([Simbi](projects/simbi), [TumblerBots](projects/tumblerbots)), and in-canopy sensing platforms ([TreeSpider](projects/treespider), [Aerial Tensile Perching](projects/aerial_tensile)).
 
----
+<br><br><br>
 
 ## Selected Publications
 
