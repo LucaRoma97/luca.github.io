@@ -29,6 +29,8 @@ latest_posts:
   limit: 3
 ---
 
+<br>
+
 I am a Postdoctoral Researcher at EPFL and EMPA, working in the [Laboratory of Sustainability Robotics (LSR)](https://www.empa.ch/web/s799), specializing in **aerial-aquatic robots** for extreme environments.
 
 My research focuses on sustainable robotics for environmental sensing in **forest** and **aquatic** ecosystems, aiming to develop safer, quieter, and more efficient approaches to collect critical data in fragile environments. I currently lead the robotics work of the [GREENFJORDS project](https://www.epfl.ch/labs/eerl/eerl-home-page/research/greenfjord/), deploying robots in Greenland's arctic fjords, supervised by Prof. Mirko Kovac.
