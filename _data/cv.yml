@@ -26,8 +26,8 @@ cv:
         position: Postdoctoral Researcher
         location: Lausanne, Switzerland / Dübendorf, Switzerland
         url: https://www.empa.ch/web/s799
-        start_date: 2025
-        end_date: present
+        start_date: "2025"
+        end_date: "present"
         highlights:
           - Aerial-aquatic systems in extreme environments including the Arctic and Greenland
           - "<a href='https://www.epfl.ch/labs/eerl/eerl-home-page/research/greenfjord/'>Greenfjord project</a>. Supervised by Prof. M. Kovac."
@@ -36,8 +36,8 @@ cv:
         position: PhD Researcher
         location: Munich, Germany / London, UK
         url: https://www.imperial.ac.uk/aerial-robotics
-        start_date: 2021
-        end_date: 2025
+        start_date: "2021"
+        end_date: "2025"
         highlights:
           - "Member of <a href='https://www.imperial.ac.uk/aerial-robotics'>Aerial Robotics Lab</a> and <a href='https://www.asg.ed.tum.de/en/eav/research/current-projects/'>eAviation</a>"
           - Multi-modal aerial systems for safe and efficient environmental sensing and sampling
@@ -47,22 +47,22 @@ cv:
       - company: Siemens AG
         position: Sales Engineer
         location: Milan, Italy
-        start_date: 2021
-        end_date: 2021
+        start_date: "2021"
+        end_date: "2021"
         highlights:
           - Configured and integrated industrial electronic systems including PLCs, inverters, and robotic arms
 
       - company: Politecnico di Torino
         position: Lab and Library Assistant
         location: Turin, Italy
-        start_date: 2015
-        end_date: 2020
+        start_date: "2015"
+        end_date: "2020"
 
       - company: Romanello s.r.l.
         position: Automotive Workshop Apprentice
         location: Nardò, Italy
-        start_date: 2012
-        end_date: 2019
+        start_date: "2012"
+        end_date: "2019"
         highlights:
           - Seasonal apprentice at family automotive electrician workshop
 
@@ -72,8 +72,8 @@ cv:
         url: https://www.imperial.ac.uk/aerial-robotics
         area: Sustainable Aerial Robotics
         studyType: PhD
-        start_date: 2021
-        end_date: 2025
+        start_date: "2021"
+        end_date: "2025"
         highlights:
           - "Thesis: <a href='https://drive.google.com/file/d/1yKkPRcTR2QpbxMZQ9ZTYWh1f6tLqM1iq/view?usp=share_link'>Multi-modal aerial solutions for safe and efficient environmental sensing</a>"
 
@@ -82,8 +82,8 @@ cv:
         url: https://www.calstatela.edu/
         area: Robotics (MSc Research Exchange)
         studyType: Master Thesis
-        start_date: 2020
-        end_date: 2020
+        start_date: "2020"
+        end_date: "2020"
         highlights:
           - "Autonomous charging operations on a mobile robot. Supervised by <a href='https://www.calstatela.edu/faculty/marina-mondin'>Prof. Dr. Marina Mondin</a>"
           - "<a href='https://webthesis.biblio.polito.it/15872/'>Thesis</a>"
@@ -93,8 +93,8 @@ cv:
         url: https://www.polito.it/
         area: Mechatronic Engineering
         studyType: MSc / BSc
-        start_date: 2015
-        end_date: 2020
+        start_date: "2015"
+        end_date: "2020"
         score: "110/110 cum laude"
         highlights:
           - Mechanical and electronics design, material science, embedded programming
@@ -104,16 +104,16 @@ cv:
       - company: EPFL Lausanne
         position: Lecturer
         location: Lausanne, Switzerland
-        start_date: 2025
-        end_date: present
+        start_date: "2025"
+        end_date: "present"
         highlights:
           - "<a href='https://edu.epfl.ch/coursebook/en/sustainability-robotics-ENV-530'>Sustainability Robotics</a> — 15 students (2025), 12 students (2026)"
 
       - company: TU Munich & Imperial College London
         position: Head Lecturer / Lecturer / Teaching Assistant
         location: Munich, Germany / London, UK
-        start_date: 2021
-        end_date: 2025
+        start_date: "2021"
+        end_date: "2025"
         highlights:
           - "Test, Analysis and Simulation — 264 students (Head Lecturer, 2024)"
           - "Introduction to Micro Aerial Vehicles — 107 students (2024)"
@@ -125,29 +125,23 @@ cv:
 
     Awards:
       - title: Best Poster — IEEE ICRA Workshop 2026
-        authors:
-          - "Awarded by Wiley"
-        date: 2026
+        date: "2026"
         awarder: Wiley
         summary: '"Multi-modal robotics for sustainable environmental sensing" — democratic vote'
         url: https://drive.google.com/file/d/1ouaoK_t1b_OuT0STOdWv6Cgs3PUBdKes/view?usp=share_link
 
       - title: Best Poster — IEEE RoboSoft Workshop 2025
-        authors:
-          - "Awarded by Wiley"
-        date: 2025
+        date: "2025"
         awarder: Wiley
         summary: '"Soft Robots for Humanitarian Assistance, Reconnaissance, Disasters, Exploration, and Recovery (HARDER)"'
 
       - title: Best Paper — IEEE RoboSoft Workshop 2024
-        authors:
-          - "Awarded by IOP Publishing"
-        date: 2024
+        date: "2024"
         awarder: IOP Publishing
         summary: '"Bio-inspired Soft Metamorphic Aerial Robotics"'
 
       - title: Finalist — Maths Games, Bocconi University
-        date: 2014
+        date: "2014"
         awarder: Bocconi University
         summary: Three-time finalist (2010–2014)
         url: https://giochimatematici.unibocconi.eu
@@ -197,12 +191,12 @@ cv:
 
     Certificates:
       - name: Volunteering — Lumiere Research Program
-        date: 2023-01-01
+        date: "2023"
         issuer: Lumiere Foundation
         icon: fa-solid fa-heart
         url: https://lumiere.foundation
 
       - name: Volunteer — Soup Kitchens
-        date: 2015-01-01
+        date: "2015"
         issuer: Various
         icon: fa-solid fa-hands-helping
