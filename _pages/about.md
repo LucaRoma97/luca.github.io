@@ -2,33 +2,38 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Postdoctoral Researcher at <a href="https://www.epfl.ch/schools/enac/">EPFL ENAC</a> &
+  <a href="https://www.empa.ch/web/s799">EMPA LSR</a>.
+  Sustainable robotics for safe environmental sensing.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ueberlandstrasse 129</p>
+    <p>8600 Dübendorf</p>
+    <p>Switzerland</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Researcher at EPFL and EMPA, working in the [Laboratory of Sustainability Robotics (LSR)](https://www.empa.ch/web/s799), specializing in **aerial-aquatic robots** for extreme environments.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on sustainable robotics for environmental sensing in **forest** and **aquatic** ecosystems. I aim to revolutionize monitoring and conservation efforts by advancing robotics toward safer, quieter, and more efficient approaches to collect critical data in fragile environments.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my PhD in Sustainable Aerial Robotics at [TU Munich (eAviation chair)](https://www.asg.ed.tum.de/eav/forschung/aktuelle-projekte/) in collaboration with the [Aerial Robotics Lab (ARL)](https://www.imperial.ac.uk/a-z-research/aerial-robotics/) at Imperial College London.
+
+Currently, I lead the robotics work of the [GREENFJORDS project](https://greenfjord-project.ch), deploying cutting-edge sustainable robots in Greenland's arctic fjords.
