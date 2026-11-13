@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   Postdoctoral Researcher at <a href="https://www.epfl.ch/schools/enac/">EPFL ENAC</a> &
   <a href="https://www.empa.ch/web/s799">EMPA LSR</a>.
-  Sustainable robotics for safe environmental sensing.
+  Multi-modal aerial robots for environmental sensing.
 
 profile:
   align: right
